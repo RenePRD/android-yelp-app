@@ -10,7 +10,7 @@ An Android application built using Java that allows users to search for and brow
 - **Framework**: Android SDK
 - **API**: Yelp Fusion API
 - **Architecture**: Activity + Fragment based navigation
-- **IDE**: Android Studio / IntelliJ IDEA
+- **IDE**: Android Studio 
 - **Build Tool**: Gradle
 
 ---
